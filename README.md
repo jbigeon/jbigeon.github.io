@@ -1,3 +1,3 @@
-# jbigeon.github.io
-site web jbigeon bidon
+# https://jbigeon.github.io
+site web jbigeon
 
